@@ -1,0 +1,7 @@
+mode,file,completion_time_s,throughput_kbps,goodput_kbps,retransmissions,retransmission_rate,timeouts,avg_rtt_ms,failed_packets,integrity_ok,n
+sliding-window,large.bin,4.382,4126.773,3831.142,126.0,0.058,126.0,7.246,0.0,1.0,2
+sliding-window,medium.bin,1.075,4188.804,3903.412,29.5,0.054,29.5,7.198,0.0,1.0,2
+sliding-window,small.bin,0.177,3042.327,2852.09,3.0,0.056,3.0,7.176,0.0,1.0,2
+stop-and-wait,large.bin,15.067,1199.11,1117.229,119.0,0.055,119.0,2.506,0.0,1.0,2
+stop-and-wait,medium.bin,3.474,1289.792,1209.944,26.0,0.048,26.0,2.516,0.0,1.0,2
+stop-and-wait,small.bin,0.376,1224.282,1142.931,3.0,0.056,3.0,2.466,0.0,1.0,2
